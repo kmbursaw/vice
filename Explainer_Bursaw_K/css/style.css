@@ -1,0 +1,76 @@
+@font-face {
+    font-family: firstFont;
+    src: local("AeroviasBrasilNF"),
+        url("AeroviasBrasilNF.ttf");
+}
+@font-face {
+    font-family: thetrical;
+    src: local("Theatrical"),
+        url("Theatrical.tff");
+}
+@font-face {
+    font-family: example;
+    src: local("Picadilly"),
+        url("Picadilly")
+}
+
+.mainTitle{
+    color:aqua;
+    font-size:84pt;
+    font-family: theatrical;
+}
+body { background-color: blueviolet;}
+
+.row{
+    color: yellow;
+    font-size: 24pt;
+    font-family: firstFont;
+}
+
+.inspiration{
+    color: aqua;
+    font-size: 48pt;
+    font-family: example;
+}
+
+.exampleTitle{
+    color: aqua;
+    font-size: 48pt;
+    font-family: example
+}
+.breakwater {
+    height: 600px;
+    width:400px
+}
+.southBeachDeco {
+    height: 600px;
+    width: 800px
+}
+.miamiVice{
+    height: 600px;
+    width: 400px
+}
+.synthwave{
+    height: 400px;
+    width: 600px
+}
+.author{
+    color: aqua;
+    font-size: 42pt;
+    font-family: firstFont;
+}
+.className{
+    color: aqua;
+    font-size: 20pt;
+    font-family: firstFont;
+}
+.no-margin{
+    color: deeppink;
+    font-size: 18pt;
+    font-family: firstFont;
+}
+.caption{
+    color: deeppink;
+    font-size: 18pt;
+    font-family: firstFont;
+}
